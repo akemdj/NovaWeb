@@ -1,0 +1,7 @@
+# calcul.txt - test pour NovaWeb
+# origine: Abdelkader
+# format: opération par ligne
+
+1 + 1
+2 * 3
+5 - 2
